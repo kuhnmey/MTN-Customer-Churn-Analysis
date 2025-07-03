@@ -38,7 +38,8 @@ Some notable findings include:
 
 ## 📁 Files Included
 
--[mtn_customer_churn DASHBOARD.xlsx](https://github.com/user-attachments/files/21034400/mtn_customer_churn.DASHBOARD.xlsx)
+-[MTN_Customer_Churn Analysis.xlsx](https://github.com/user-attachments/files/21036971/MTN_Customer_Churn.Analysis.xlsx)
+
 
  – Excel workbook with data and dashboard.  
 - `README.md` – This project overview.
