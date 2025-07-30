@@ -1,8 +1,8 @@
-# 📊 MTN Customer Churn Analysis Dashboard
+# MTN Customer Churn Analysis Dashboard
 
 This project is a comprehensive **Excel dashboard** analyzing customer churn patterns for a fictional MTN Nigeria dataset. The goal is to uncover insights that can help reduce churn and improve customer retention.
 
-## 🔍 Overview
+## Overview
 
 The dashboard explores key metrics such as:
 
@@ -12,7 +12,7 @@ The dashboard explores key metrics such as:
 - Tenure and purchasing behavior  
 - Gender-based churn trends
 
-## 🧰 Tools Used
+##  Tools Used
 
 - Microsoft Excel  
   - Pivot Tables  
@@ -21,14 +21,14 @@ The dashboard explores key metrics such as:
   - Helper Columns  
 - Data Cleaning & Transformation Techniques
 
-## 📈 Key Features
+## Key Features
 
 - **Interactive Dashboard:** Filter by state, gender, age group, and subscription plan.  
 - **Customer Segmentation:** Understand high-risk churn groups.  
 - **KPI Tracking:** Monitor satisfaction, revenue, and average purchase frequency.  
 - **Insights for Action:** Pinpoint areas to improve retention strategy.
 
-## 🧠 Insights
+## Insights
 
 Some notable findings include:
 
@@ -36,21 +36,22 @@ Some notable findings include:
 - Certain states have significantly higher churn rates than others.  
 - Long-tenured customers on basic plans show different behavior patterns from newer users.
 
-## 📁 Files Included
+## Files Included
 
--[MTN_Customer_Churn Analysis.xlsx](https://github.com/user-attachments/files/21036971/MTN_Customer_Churn.Analysis.xlsx)
+-[MTN_Customer_Churn Analysis.xlsx](https://github.com/user-attachments/files/21515350/MTN_Customer_Churn.Analysis.xlsx)
+
 
 
  – Excel workbook with data and dashboard.  
 - `README.md` – This project overview.
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel file.  
 2. Open in Microsoft Excel (2016 or newer).  
 3. Use slicers and filters to interact with the dashboard.
 
-## 📬 Contact
+## Contact
 
 Created by **Bamigbade Deborah**  
 📧 bamigbadedebby01@gmail.com
