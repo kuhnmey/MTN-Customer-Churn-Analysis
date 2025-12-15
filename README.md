@@ -36,23 +36,6 @@ Some notable findings include:
 - Certain states have significantly higher churn rates than others.  
 - Long-tenured customers on basic plans show different behavior patterns from newer users.
 
-## Files Included
-
--[MTN_Customer_Churn Analysis.xlsx](https://github.com/user-attachments/files/21515350/MTN_Customer_Churn.Analysis.xlsx)
 
 
-
- – Excel workbook with data and dashboard.  
-- `README.md` – This project overview.
-
-## How to Use
-
-1. Download the Excel file.  
-2. Open in Microsoft Excel (2016 or newer).  
-3. Use slicers and filters to interact with the dashboard.
-
-## Contact
-
-Created by **Bamigbade Deborah**  
-📧 bamigbadedebby01@gmail.com
 
